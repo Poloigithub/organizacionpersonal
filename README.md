@@ -88,10 +88,15 @@ Tengo dos calendarios, uno personal donde hago algo parecido a un sistema de blo
 Utilizo el siguiente sistema de colores.
 
 🟧 - Tiempo que bloqueo para hábitos que quiero implementar en mi vida.
+
 🟦 - Tiempo para deporte.
+
 🟩 - Tiempo bloqueado para cosas personales.
+
 🟪 - Tiempo para tareas.
+
 ⬛ - Tiempo para revisiones.
+
 🟥 - Tiempo para ###.
 
 - **Calendario de organización de comidas**
